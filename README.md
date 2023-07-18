@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/vnnikolov30/vikzcrypt/assets/122814861/fc81a30f-292d-4447-b084-a0f89cd43cde" align="center" alt="VikzCrypt" />
- # VIKZCRYPT
 </p>
+ # VIKZCRYPT
 
 ## ⚠️ DISCLAIMER! ⚠️ 
 THIS IS NOT A REAL ENCRYPTER! THIS IS JUST A SILLY LITTLE PROJECT I DID OUTSIDE OF MY SOFTUNI HOMEWORK. IT'S SOMETHING I DID FOR FUN AND SHOULD NOT BE TAKEN SERIOUSLY!
@@ -44,7 +44,7 @@ In the vikzcrypt.py file navigate to the PASSWORD constant (line 8) and type wha
 
 ![changepass](https://github.com/vnnikolov30/vikzcrypt/assets/122814861/3a00fd3b-3784-4984-ac61-7796a6477a7d)
 
-###NOTE🔴: 
+NOTE🔴: 
 In the .exe provided the password is the default one and you cant change it. If in the future i come back to this i will figure out a way to make the password change dynamic but for the time being if you use the .exe just know that you're stuck with "123"
 
 ---
