@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://github.com/vnnikolov30/vikzcrypt/assets/122814861/fc81a30f-292d-4447-b084-a0f89cd43cde" align="center" alt="VikzCrypt" />
- <h2 align="center">Vikzcrypt</h2>
+ <h1 align="center">Vikzcrypt</h1>
 </p>
 
 ## ⚠️ DISCLAIMER! ⚠️ 
@@ -21,7 +21,7 @@ You can also find this in the requirements.txt
 
 🔴 YOU NEED TKINTER AND PYGAME INSTALLED IN ORDER TO RUN THE CODE! 🔴
 
-Luckilly installing them is as easy as typing **`pip install pygame`** for pygame and **`pip install tk`** for tkinter in your terminal
+Luckilly installing them is as easy as typing **`pip install pygame`** for pygame and **`pip install tk`** for tkinter in your terminal.
 
 After that you're good to go! ✅
 
@@ -44,6 +44,6 @@ In the vikzcrypt.py file navigate to the PASSWORD constant (line 8) and type wha
 
 ![changepass](https://github.com/vnnikolov30/vikzcrypt/assets/122814861/3a00fd3b-3784-4984-ac61-7796a6477a7d)
 
-NOTE: In the .exe provided the password is the default one and you cant change it. If in the future i come back to this i will figure out a way to make the password change dynamic but for the time being if you use the .exe just know that you're stuck with "123"
+**NOTE🔴: In the .exe provided the password is the default one and you cant change it. If in the future i come back to this i will figure out a way to make the password change dynamic but for the time being if you use the .exe just know that you're stuck with "123"
 
 ---
