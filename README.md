@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/vnnikolov30/vikzcrypt/assets/122814861/fc81a30f-292d-4447-b084-a0f89cd43cde" align="center" alt="VikzCrypt" />
+ <h1 align="center">Vikzcrypt</h1>
 </p>
- # VIKZCRYPT
 
 ## ⚠️ DISCLAIMER! ⚠️ 
 THIS IS NOT A REAL ENCRYPTER! THIS IS JUST A SILLY LITTLE PROJECT I DID OUTSIDE OF MY SOFTUNI HOMEWORK. IT'S SOMETHING I DID FOR FUN AND SHOULD NOT BE TAKEN SERIOUSLY!
